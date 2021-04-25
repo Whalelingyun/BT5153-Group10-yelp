@@ -42,5 +42,14 @@ Compare all model classification result for nontext features:
 
 5. Content-Based Filtering
 
-6. Recommendation_pipeline
+6. recommendation_collaborative_filtering
 
+- GMM
+
+7. recommendation_collaborative_filtering_km&hr
+
+- K-means
+- Hierachical Clustering
+
+8. Recommendation_Pipeline
+Combining Content-based filtering and collaborative filtering. Finally output recommendation result and conducted evaluation in terms of diversity, personalization, number_in_actual, satisfaction, coverage
