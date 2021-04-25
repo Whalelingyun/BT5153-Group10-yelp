@@ -52,4 +52,5 @@ Compare all model classification result for nontext features:
 - Hierachical Clustering
 
 8. Recommendation_Pipeline
+
 Combining Content-based filtering and collaborative filtering. Finally output recommendation result and conducted evaluation in terms of diversity, personalization, number_in_actual, satisfaction, coverage
