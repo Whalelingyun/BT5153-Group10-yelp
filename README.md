@@ -5,7 +5,7 @@ Review Quality Based Recommendation for Yelp
 The representative subset of the original data can be found in Data folder.
 
 ## Code
-There are total xx ipynb notebooks. The notebook sequence is denoted in titles.
+There are total 6 ipynb notebooks. The notebook sequence is denoted in titles.
 
 1. Data Preparation
 
